@@ -1,0 +1,6 @@
+- buat menunya
+- buat kontoller matakuliah
+- buat model
+- buat file view matakuliah
+- buat database
+- ceking
